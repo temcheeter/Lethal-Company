@@ -1,0 +1,46 @@
+﻿# Location/Локации
+
+Abandoned=Заброшена
+Diverse=Разнообразная
+Eclipsed=Затмение
+Flooded=Наводнение
+Foggy=Туман
+Rainy=Дождь
+Safe=Безопасно
+Stormy=Шторм
+Unknown=Неизвестна
+None=Отсутствует
+
+A competitive ecosystem supports aggressive lifeforms.=Экосистема способствует развитию агрессивных форм жизни.
+Arid. Thick haze, worsened by industrial artifacts.=Засушливо. Густой туман, ухудшенный промышленными артефактами.
+Dangerous entities have been rumored to take residence in the vast network of tunnels.=По слухам, в обширной сети туннелей обитают опасные существа
+Dominated by a few species.=Доминируют несколько видов.
+Ecosystem supports territorial behaviour.=Экосистема поддерживает территориальное поведение.
+Expansive. Constant rain.=Просторная. Постоянный дождь.
+Frozen, rocky. Its planet orbits a white dwarf star.=Замерзшая, каменистая. Ее планета вращается вокруг белого карлика.
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Замерзшая, каменистая. На этой луне добывали ресурсы. Здесь легко заблудиться.
+Humid. Rough terrain. Teeming with plant-life.=Влажно. Сложная местность. Кишит растительностью.
+No land masses. Continual storms.=Отсутствие суши. Непрерывные штормы.
+Oxygen critically low!=Критический уровень кислорода!
+Unlikely for complex life to exist=Маловероятно существование сложных форм жизни.
+Where the Company resides.=Местонахождение Компании.
+
+
+21 Offense=21 Offense
+220 Assurance=220 Assurance
+31 March=31 March
+41 Experimentation=41 Experimentation
+56 Vow=56 Vow
+61 March=61 March
+7 Dine=7 Dine
+71 Gordion=71 Gordion
+8 Titan=8 Titan
+85 Rend=85 Rend
+
+HAZARD LEVEL:=УРОВЕНЬ ОПАСНОСТИ:
+
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=ОРБИТА：$1\nПОПУЛЯЦИЯ：$2\nУСЛОВИЯ：$3\nФАУНА：$4\n$5
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\nWeather: (.+?)$"=ОРБИТА：$1\nПОПУЛЯЦИЯ：$2\nУСЛОВИЯ：$3\nФАУНА：$4\nПОГОДА：$5
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=ОРБИТА：$1\nПОПУЛЯЦИЯ：$2\nУСЛОВИЯ：$3\nФАУНА：$4
+sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=ПОПУЛЯЦИЯ：$2\nУСЛОВИЯ：$3\nФАУНА：$4\n$5
+sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=ПОПУЛЯЦИЯ：$1\nУСЛОВИЯ：$2\nФАУНА：$3

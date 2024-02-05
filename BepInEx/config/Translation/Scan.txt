@@ -1,0 +1,24 @@
+Coil=Катушка
+Charges batteries=Заряжает батареи
+
+Terminal=Терминал
+Buy flashlights and travel to new planets!=Купите фонарики и отправляйтесь путешествовать по новым планетам!
+
+Brake lever=Рычаг тормоза
+Lands the ship.=Приземляет корабль
+
+Quota=Квота
+Sell scrap for cash.=Продайте лом за кредиты компании
+
+Ship=Корабль
+
+Main entrance=Главный вход
+
+Home base=База
+
+Training manual=Сервисное руководство
+Useful info!=Полезная информация!
+
+Door controls=Элементы управления дверью
+Can't stay closed forever=Не может оставаться закрытой вечно
+

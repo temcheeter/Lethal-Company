@@ -1,0 +1,16 @@
+﻿v45=V45
+Notes:\n* Most lazy employee\n* Most paranoid employee\n* Sustained the most injuries=Примечания: * Самый ленивый сотрудник * самый параноидальный сотрудник * получил большинство травм
+Fines=Штраф
+Blep2=Blep2
+Crazydude12=Crazydude12
+INSTABILITY:=Нестабильность:
+TOTAL: [to]=Всего: [к]
+Jagged and weathered terrain. =Зазубренная и выветрившаяся местность. 
+Engine part (x2) : $55\nPlastic fish : $30\nDog toy (x3) : $130\nMetal sheet (x3) : $110=Часть двигателя (x2): 55 $ Пластиковая рыба: 30 долларов США игрушка (x3): 130 $ Металлический лист (x3): $ 110
+CRITICAL INJURY=Критическая травма
+BROADCASTED SPECIAL CODE=Транслированный специальный код
+VISIBILITY LOW!\n\nSteam leak detected in area=Видимость низко!\nУтечка в пар, обнаруженную в области
+Intern=Стажер
+(Spectating: )=(Specting :)
+CREW:=ЭКИПАЖ:
+Hayrizan=Хейризан

@@ -1,0 +1,130 @@
+Grab : [E]=Подобрать: [E]
+
+Walk : [W/A/S/D]=Ходить: [W/A/S/D]
+Sprint: [Shift]=Бег: [Shift]
+Scan : [RMB]=Сканирование: [RMB]
+
+Ring bell: [E]=Использовать звонок: [E]
+
+Open hatch : [E]=Использовать люк: [E]
+
+Climb : [E]=Использовать лестницу: [E]
+
+Use ladder : [E]=Использовать лестницу: [E]
+Let go : [E]=Отпустить лестницу: [E]
+
+Get log : [E]=Подобрать запись [E]
+
+Press "/" to talk.="/" открыть чат.
+Typing...=Ввод текста...
+
+Pull switch : [E]=Вкл/Выкл свет: [E]
+
+Start game : [E]=Начать игру: [E]
+
+Enter : [E]=Войти: [E]
+Exit : [E]=Выйти: [E]
+
+Use door : [E]=Использовать: [E]
+
+Locked=Заперто
+
+Disable speaker: [E]=Отключить динамик: [E]
+
+Start ship : [E]=Запустить корабль: [E]
+
+Confirm: [B]   |   Rotate: [R]   |   Store: [X]=Подтвердить: [B]   | Вращать: [R]  |  На склад: [X]
+
+Flush: [E]=Смыть : [E]
+
+Open : [E]=Использовать: [Е]
+
+Hit pumpkin : [E]=Пнуть тыкву: [E]
+
+Use ladder : [E]=Использовать: [E]
+
+Play record: [E]=Воспроизвести пластинку: [E]
+
+Switch water: [E]=Переключить воду: [E]
+
+Sell item : [E]=Продать предмет: [E]
+
+Charge item : [E]=Зарядить предмет: [E]
+
+Beam up : [E]=Запустить: [E]
+
+Get log : [E]=Подобрать запись: [E]
+
+Open hatch: [E]=Использовать: [E]
+
+Loading...=Загрузка...
+Autosaving...=Автосохранение...
+Started server, joining...=Сервер запущен, присоединение...
+
+DOOR HYDRAULICS:=ГИДРАВЛИКА ДВЕРИ:
+
+SYSTEMS ONLINE=СИСТЕМЫ ОНЛАЙН
+
+(Cannot hold until ship has landed)=(Нельзя подобрать, пока корабль не приземлится)
+
+(Requires battery-powered item)=(Требуется устройство с батареей)
+
+Open door : [E]=Открыть дверь: [E]
+Close door : [E]=Закрыть дверь: [E]
+
+Switch lights : [E]=Вкл/Выкл свет: [E]
+
+Pull cord: [E] (Hold)=Потянуть за шнур: [E] (Удерживать)
+
+[Pulling cord]=[Тянет за шнур]
+
+Switch camera : [E]=Переключить камеру: [E]
+
+Access terminal : [E]=Доступ к терминалу: [E]
+
+Quit terminal : [TAB]=Выйти из терминала: [TAB]
+
+Change: Green suit=Изменить на: Зеленый костюм
+Change suit=Изменить на: Оранжевый костюм
+Change: Pajama suit=Изменить на: Пижамный костюм
+Change: Hazard suit=Измененить на: Защитный костюм
+
+Set candles: [E]=Зажечь/Потушить свечи: [E]
+
+Lift glass : [E]=Поднять/Опустить крышку: [E]
+
+[ Not holding items ]=[Нет предмета в руках]
+
+[Nothing to store]=[Нечего положить]
+
+HANDS FULL=РУКИ ЗАНЯТЫ
+
+EMPLOYEE RANK=Должность сотрудника
+
+New creature data sent to terminal!=Данные о новом существе отправлены на терминал!
+
+You did not meet the profit quota before the deadline.=Вы не достигли минимальной квоты до окончания срока.
+YOU ARE FIRED.=ТЫ УВОЛЕН.
+
+Tell autopilot ship to leave early : [RMB] (Hold)=Уведомить автопилот улететь раньше: [RMB] (Удерживайте)
+
+Paycheck!=Зарплата!
+
+[LIFE SUPPORT: OFFLINE]=[ЖИЗНЕОБЕСПЕЧЕНИЕ: ОТКЛЮЧЕНО]
+
+(Dead)=(Мертв)
+
+PERFORMANCE REPORT=ОТЧЁТ О РАБОТЕ
+
+PILOT COMPUTER=БОРТОВОЙ КОМПЬЮТЕР
+Warning! No response from crew, which has not returned. Emergency code activated.=Предупреждение! \nЭкипаж не отвечает и не возвращается. \nАктивирован аварийный код.
+The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Автопилот попытается долететь до ближайшего  космопорта. \nВаши вещи были потеряны.
+
+2 Days Left=осталось 2 дня
+1 Days Left=остался 1 день
+
+
+
+
+
+
